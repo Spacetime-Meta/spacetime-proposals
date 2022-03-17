@@ -1,5 +1,5 @@
 {
-  "id": "P01"
+  "id": "P01",
   "title": "Change epoch durations and max supply",
   "subtitle": "Divide each epoch by 4 and close the mint at the end of epoch 3",
   "status": "Awaiting vote",
