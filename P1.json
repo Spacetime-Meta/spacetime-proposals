@@ -7,5 +7,9 @@
     [
       "The first part is to cut the length of each epoch by 4. We do this by reducing the trigger for the next epoch. For example, the second epoch was supposed to end after reaching 400 new gold chunks instead we stop after reaching 100 new gold chunks. The biggest consequence of this change is to reduce the maximum amount of gold chunks from 1200 to 600.",
       "The second part is to stop the mint after the end of epoch 3. This will create a limited maximum supply, increasing trading opportunities. We propose the end of epoch 3 because at this point, the Uncommun (gray) chunks will be distributed in a way to give Commun (green) chunks their deserved value, thus rewarding all the green chunks holders."
-    ]
+    ],
+  "result": {
+    "approved": 451,
+    "denied": 0
+  }
 }
