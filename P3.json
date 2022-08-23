@@ -2,12 +2,12 @@
 	"id": "P03",
 	"title": "Spacetime Chunk Mint Closure",
 	"subtitle": "We propose to drasticaly change the minting process",
-	"status": "voting",
+	"status": "approved",
 	"desc": [
 		"After running our chunk distribution system for a few months, we came to the conclusion that the distribution process was not suitable in a bear market. This is why we propose to reduce epoch 2 to 9000 chunks and stop the mint once we reach this amount. Also, if this proposal is approved, we will mint all the remaining chunks. This means, the Space Chunk mint will close on the 22, if this proposal passes."
 	],
 	"result": {
-    "approved": 0,
+    "approved": 150,
     "denied": 0
   }
 }
